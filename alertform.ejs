@@ -1,0 +1,112 @@
+<!DOCTYPE html> 
+<html> 
+  
+<head> 
+    <title>Alerts form</title> 
+</head> 
+  
+<body> 
+    <h1>Generate Trigger</h1> 
+
+    <form method="post" action="/ledata"> 
+       
+        <pre> 
+           
+            EdgeId : <select name="Edge" id="edges">
+
+                <%
+              
+                var options = docs.EdgeId;
+               
+                for ( var i = 0; i < options.length; i++ )
+                {
+                    var selected = ( options[0].edges == i ) ? "selected" : "";
+                    %><option value="<%=options[i] %>" <%=selected %>><%=options[i] %></option><%
+                }
+                %>
+                </select>
+                <br>
+            
+            
+            DP NAME    : <select name="DP" id="dp">
+
+                <%
+              
+                var options = docs.DpName;
+               
+                for ( var i = 0; i < options.length; i++ )
+                {
+                    var selected = ( options[0].dp == i ) ? "selected" : "";
+                    %><option value="<%=options[i] %>" <%=selected %>><%=options[i] %></option><%
+                }
+                %>
+                </select> <br>
+
+            Verticals    : <select name="vertical" id="vertical">
+
+                <%
+              
+                var options = docs.Vertical;
+               
+                for ( var i = 0; i < options.length; i++ )
+                {
+                    var selected = ( options[0].vertical == i ) ? "selected" : "";
+                    %><option value="<%=options[i] %>" <%=selected %>><%=options[i] %></option><%
+                }
+                %>
+                </select> <br> 
+  
+            City     : <select name="city" id="city">
+
+                <%
+              
+                var options = docs.City;
+               
+                for ( var i = 0; i < options.length; i++ )
+                {
+                    var selected = ( options[0].city == i ) ? "selected" : "";
+                    %><option value="<%=options[i] %>" <%=selected %>><%=options[i] %></option><%
+                }
+                %>
+                </select> <br> 
+            
+  
+            State   : <select name="state" id="state">
+
+                <%
+              
+                var options = docs.States;
+               
+                for ( var i = 0; i < options.length; i++ )
+                {
+                    var selected = ( options[0].state == i ) ? "selected" : "";
+                    %><option value="<%=options[i] %>" <%=selected %>><%=options[i] %></option><%
+                }
+                %>
+                </select> <br> 
+  
+            Reach : <select name="reach" id="reach">
+
+                <%
+              
+                var options = docs.Reach;
+               
+                for ( var i = 0; i < options.length; i++ )
+                {
+                    var selected = ( options[0].reach == i ) ? "selected" : "";
+                    %><option value="<%=options[i] %>" <%=selected %>><%=options[i] %></option><%
+                }
+                %>
+                </select>
+            <br> 
+          
+            
+            <button type="submit" value="save">SUBMIT</button>
+          
+        </pre>     
+    </form> 
+
+
+</body> 
+  
+</html> 

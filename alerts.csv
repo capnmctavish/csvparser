@@ -1,0 +1,455 @@
+"DP_Name","TP_Name","EdgeID",Vertical,"Sub Vertical",City,State,"Server Type","Sub Server Type",Reach,"No of Aps",Capex,Opex,"Deal Value","Deal Term",Revenue,"Budget for Ops","Budget for Connectivity","Actual spends on connectivity",Active
+NMMT,MH43-H-5268,c00187,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5139,e76f8b,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5194,42d972,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5160,7039b3,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5274,bfe529,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5099,71b607,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5153,6d4942,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5283,98a03c,"Private Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5140,9cd1c9,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5136,07c436,"Private Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5106,f1a6fc,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5213,76efcf,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5063,cb4083,"Private Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5156,eb0a03,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5260,6a7621,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5254,85a8ec,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5091,cf7247,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5209,f150f2,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5203,482cbe,"Private Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5102,391597,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5218,604ec4,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5136,02d09c,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5195,12f096,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5244,17d07f,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5211,10c3f8,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5223,28df3c,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5162,238235,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5143,011682,"Private Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5146,58afa7,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5141,eba8d2,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5251,215b1f,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5183,464482,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5072,33e256,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5193,3c7671,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5104,4bfae0,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5166,62ae27,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5264,5dcbcc,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5154,1a748a,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5260,3ee41a,"Private Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5172,a87cc2,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5270,568703,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5279,58c3d0,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5239,152b63,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5184,14d479,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5276,0e6b11,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5190,18ffa3,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5246,42a945,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5158,6a2dfc,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5148,5b6a38,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH-43-H-5170,283f72,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH-43-H-5169,77df56,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5232,f69074,"Private Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH-43-H-5163,f7e134,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH-43-H-5178,a44ffe,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH-43-H-5179,8b7114,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH-43-H-5248,d2e02f,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5287,b544ed,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH-43-H-5231,c2305b,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH-43-H-5196,6ad517,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH-43-H-5285,0df688,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH-43-H-5226,aff904,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH-43-H-5281,ea54e8,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5089,e7d2c7,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH-43-H-5237,ff7e60,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5221,f8a64a,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5265,d9b1af,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5232,af79f7,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5227,99e04d,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5164,a3e891,"Private Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5159,5e0e61,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5228,6865a1,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5224,b71597,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5284,bc9cc2,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5200,b718c5,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5147,90aeb5,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5186,eead32,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5278,fcc8bc,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5243,0aa0e1,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5134,F89916,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5188,617311,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5155,e526f6,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5256,8cabe4,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5149,140ac1,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5259,b79eb0,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5105,d25abb,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5273,52b84c,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5172,615d32,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5164,799e16,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43-H-5215,cb0529,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(105),18487f,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(126),50e5e5,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(121),8d0e46,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(102),8a0ccd,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(135),04908b,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(132),8543bd,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(107),965cc9,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(111),7d0b17,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(133),534da0,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(124),7670eb,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(137),ea79e6,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(103),89aa45,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(123),399942,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(108),c77691,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(112),6c64ec,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(122),6162ae,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(128),91359a,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(117),a2718d,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(109),36e328,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(131),5ea06e,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(140),c7a883,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(106),d14fee,"Private Transport",Metro,Chennai,"Tamil Nadu",Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 20",01975b,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 19",069b91,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 05",0be1f6,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 03",12f497,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 07",130ca0,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 04",157bea,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 35",1b7a23,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 02",2494a4,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 22",2b07f3,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 15",3080b2,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 17",392bca,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 21",3d607c,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 18",3e53aa,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 06",4053e3,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 32",4226ef,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 28",44e7d9,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 01",513e51,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 37",5234a8,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 41",555ff5,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 42",5e115b,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 46",66a7da,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 44",7e9c1c,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 43",826d55,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 14",82b85d,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 38",87bae4,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 13",8fdef6,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 31",92e081,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 24",999792,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 36",9d73a1,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 08",a4f4d4,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 40",af7233,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 16",af794f,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 45",b901c0,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 33",c33467,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 39",ce96e4,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 09",d10c83,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 26",d4cf1e,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 27",d5d4e5,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 12",db8da9,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 10",e07285,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 23",e38c4c,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 11",e46658,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 34",e5fa19,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 25",f86f6a,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 47",e62825,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 48",f0ce05,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 49",f08e12,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Train No. 50",fae512,"Private Transport",Metro,Hyderabad,Telangana,Mobile,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Narayana Hospital","NARAYANA HOSPITAL",0f9b29,Healthcare,"Standalone Private Hospital",Gurugram,Haryana,Static,HP,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,Belapur,151656,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mid,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,Airoli,2112df,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mid,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"NMMT Ghansoli Depot","Ghansoli Depot",34246a,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mid,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Silver Sands Serenity","Serenity 1",4b0ebb,Hotels,"Standalone Hotel",Goa,Maharashtra,Static,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"SRS Shanti Nagar Depot Bangalore","Shanti Nagar Depot",4b2c0e,"Private Transport","Intercity Bus",Bangalore,Karnataka,Mid,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"NMMT Turbhe","Turbhe Depot",556e50,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mid,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"NMMT Koper Khairane sector 3","Koper Khairane ",5ab875,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mid,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"KSRTC Chitradurga Depot","Chitradurga Depot",836742,"Public Place","Public Area",Chitradurga,Karnataka,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"KSRTC Mangalore Depot","Mangalore Depot",838e1a,"Public Place","Public Area",Mangalore,Karnataka,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"ZEE CAFE , Kormangala",Koramangala,8ccdfb,FnB,"FnB Chain",Bangalore,Karnataka,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"NMMT Asudgaon Sector - 2","Asudgaon Sector",94e284,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mid,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"YMCA Agripada",Agripada,98750a,Residential,"Hostel Chain",Mumbai,Maharashtra,Static,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Royal Plaza Depot","Royal Plaza Depot",a558a5,"Private Transport","Intercity Bus",Kohlapur,Maharashtra,Mid,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Shirgaon Depot","Shirgaon Depot",ad3ead,"Private Transport","Intercity Bus",Kohlapur,Maharashtra,Mid,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"NMMT Kalamboli Sector 2","Kalamboli Sector 2",ae472e,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mid,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"NMMT CBD Sector 06","CBD Sector 06",bd72e0,"Public Transport","City Bus","Navi Mumbai",Maharashtra,Mid,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"KSRTC Mysore - City Depot","Mysore City",c46e3d,"Public Place","Public Area",Mysore,Karnataka,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"KSRTC Mysore - Rural Depot","Mysore Rural",cd8cbe,"Public Place","Public Area",Mysore,Karnataka,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Zee Cafe HSR Layout ( Infra Riding)","Zee Cafe - HSR Layout",e33dc3,FnB,"FnB Chain",Bangalore,Karnataka,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Purple Travel-Mid","Purple Metro Depot",f5bf34,"Private Transport","Intercity Bus",Pune,Maharashtra,Mid,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Hyderabad Metro DCC","Hyderabad Metro Network",ff202e,"Private Transport",Metro,Hyderabad,Telangana,Mid,"Supper Micro",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"KSRTC Kempegowda2","Kempegowda 2",4374e5,"Public Place","Public Area",Bangalore,Karnataka,Static,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"KSRTC Kempegowda3","Kempgowda 3",a9bb6b,"Public Place","Public Area",Bangalore,Karnataka,Static,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"KSRTC Kempegowda1","Kempgowda 1",c12b20,"Public Place","Public Area",Bangalore,Karnataka,Static,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Zee Cafe Pune","Zee Cafe - Pune",44d1cc,FnB,"FnB Chain",Pune,Maharashtra,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Shrama Sadhana","Shrama Sadhana Trust_old",fcd95b,Residential,"Hostel Chain",Mumbai,Maharashtra,Static,"I Ball",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"ZEE5 Loft Chandigarh","Zee Cafe - Chandigarh",91c3b6,FnB,"FnB Chain",Chandigarh,Punjab,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"ZEE5 Loft Ahmedabad",Ahmedabad,0c4c7c,FnB,"FnB Chain",Ahmedabad,Gujarat,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Zee Cafe Hyderabad ","Zee Cafe - Hyderabad",abb6f2,FnB,"FnB Chain",Hyderabad,Telengana,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"ZEE5 Loft Kammanahalli",Bangalore,79d2a9,FnB,"FnB Chain",Bangalore,Karnataka,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"ZEE5 Loft Jaipur",Jaipur,b9627b,FnB,"FnB Chain",Jaipur,,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"ZOLO Cosmos","Manyata techpark",27530e,Residential,"Hostel Chain",Bangalore,Karnataka,Static,HP,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"CSC Gram Panchayat",Rewari,42d864,"Public Place","Public Area",Rewari,Haryana,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Puneet Goenka Static","16th Floor",06039f,"Public Place","Public Area",Mumbai,Maharashtra,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"CSC Gram Panchayat",babugarh,59cf7a,"Public Place","Public Area",Dehradun,Uttarakhand,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"CSC Gram Panchayat",Dudhil,27d3a0,"Public Place","Public Area",Dehradun,Uttarakhand,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"CSC Gram Panchayat","Nagal Jwalapur",405dc7,"Public Place","Public Area",Dehradun,Uttarakhand,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"CSC Gram Panchayat",Arcadiagrant,2f8fbe,"Public Place","Public Area",Dehradun,Uttarakhand,Static,"Black Box",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Travels","MH09 CV 0145",6c6bbd,"Private Transport","Intercity Bus",Kohlapur,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Travels","MHO9 CV 0143",123123,"Private Transport","Intercity Bus",Kohlapur,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Travels",MH09CA2220,5afda7,"Private Transport","Intercity Bus",Kohlapur,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Travels",MH09BC4581,e9e03a,"Private Transport","Intercity Bus",Kohlapur,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Travels",MH09EM8982,964139,"Private Transport","Intercity Bus",Kohlapur,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Travels",MH09EM4581,3a9b65,"Private Transport","Intercity Bus",Kohlapur,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Travels",MH09CA2202,1231c5,"Private Transport","Intercity Bus",Kohlapur,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Travels",MH09EM4005,39031a,"Private Transport","Intercity Bus",Kohlapur,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Travels",MH09CA4020,4cca3b,"Private Transport","Intercity Bus",Kohlapur,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Travels",MH09CA2040,32902e,"Private Transport","Intercity Bus",Kohlapur,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Travels",KA51B1213,1f8ca7,"Private Transport","Intercity Bus",Kohlapur,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Purple Travels",MH14GU2580,434db5,"Private Transport","Intercity Bus",Pune,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Purple Travels",MH14CW1005,f7a295,"Private Transport","Intercity Bus",Pune,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Purple Travels",MH14GU2571,3d1d3d,"Private Transport","Intercity Bus",Pune,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Purple Travels",MH14GU2553,b17e5a,"Private Transport","Intercity Bus",Pune,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Purple Travels",MH14GU2562,8c69bd,"Private Transport","Intercity Bus",Pune,Maharashtra,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Yard,998bb5,"Private Transport",Metro,Chennai,"Tamil Nadu",Mid,Kontron,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CSC,"RAWALI MAHDOOD",766ad9,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CSC,"DALUWALA MAJBATA",41c9ac,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CSC,Alawalpur,bb9d5d,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CSC,Chipura,9f1b7f,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CSC,"KHEDI MUBARIKPUR",464337,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CSC,"MAHARAJPUR KALAN",76613a,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CSC,"BAHADARPUR KHADAR",d5f317,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Nanavati Hospital_old","Nanavati Hospital_old",fa151f,"Standalone FnB",FnB,Mumbai,Maharashtra,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT_old,"Turbhe Depots_old",556e52,"City Bus","Private Transport",NULL,NULL,Mid,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport",MH43H5062,6bf1d0,"City Bus","Private Transport","Navi Mumbai",NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Forum Mall_old","Forum Mall_old",aa3a5d,"Standalone FnB",FnB,Bengaluru,Karnataka,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport","Navi Mumbai Municipal Transport-3",e3633d,"City Bus","Private Transport","Navi Mumbai",NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Travels Pvt Ltd","Konduskar New-9",85b186,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar New-3",1fd4c3,"Intercity Bus","Public Transport",Kolhapur,Maharashtra,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar New-10",560487,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar New-8",7b5853,"Intercity Bus","Public Transport",Kolhapur,Maharashtra,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar New-5",6e7346,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"HMRL(L&T Metro)","Ameerpeth - Interchange",ff6d6e,Metro,"Private Transport",Hyderabad,Telangana,Mid,child_pseudo_tp,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)",KPHB,ffb75b,Metro,"Private Transport",Hyderabad,Telangana,Mid,child_pseudo_tp,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Miyapur Depot",ff6334,Metro,"Private Transport",Hyderabad,Telangana,Mid,child_pseudo_tp,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Secunderabad East",ffcf22,"Public Hospital",Healthcare,Hyderabad,Telangana,Mid,child_pseudo_tp,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)",Miyapur,ff77e4,Metro,"Private Transport",Hyderabad,Telangana,Mid,child_pseudo_tp,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)",Begumpet,ff728b,Metro,"Private Transport",Hyderabad,Telangana,Mid,child_pseudo_tp,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)",Kukatpally,fed763,Metro,"Private Transport",Hyderabad,Telangana,Mid,child_pseudo_tp,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)",JNTU,fff2e4,Metro,"Private Transport",Hyderabad,Telangana,Mid,child_pseudo_tp,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)","Uppal Depot",ff628e,Metro,"Private Transport",Hyderabad,Telangana,Mid,child_pseudo_tp,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)",Nagole,ff9f2c,Metro,"Private Transport",Hyderabad,Telangana,Mid,child_pseudo_tp,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)",Uppal,ffa394,Metro,"Private Transport",Hyderabad,Telangana,Mid,child_pseudo_tp,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Expressway Truck Terminus","Expressway Truck Terminus pvt ltd (Food Way)",a8e720,"Standalone FnB",FnB,Mumbai,Maharashtra,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+BMCRI,"Minto Hospital",50f7e7,"Public Hospital",Healthcare,Ahmedabad,Gujarat,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+BMCRI,"Victoria Hospital",00ca00,"Public Hospital",Healthcare,Bengaluru,Karnataka,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Karuna Hospital","Karuna Hospital Borivali",82ac29,"Standalone FnB",FnB,Mumbai,Maharashtra,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"BMC Hospital","BMC Hospital KEM - New",671fde,"Standalone FnB",FnB,Mumbai,Maharashtra,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"BMC Hospital","Lokmanya Tilak Municipal General Hospital",961ea2,"Standalone FnB",FnB,Mumbai,Maharashtra,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"BMC Hospital","Kem Hospital old",5eba5f,"Standalone FnB",FnB,Mumbai,Maharashtra,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Nehru Nagar","Nehru Nagar",4286f4,Basti,"Public Places",Mumbai,Maharashtra,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Oshiwara Basti","Oshiwara Basti",14a1fd,Basti,"Public Places",Mumbai,Maharashtra,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Gokul Sirgaon",500b6e,"Intercity Bus","Public Transport",Kolhapur,NULL,Mid,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Travels Pvt Ltd","Royal Plaza",fd56a1,"Intercity Bus","Public Transport",Kolhapur,NULL,Mid,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-10",aa8d66,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-17",d5e95e,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-8",faa15c,"Intercity Bus","Public Transport",Kolhapur,Maharashtra,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-24",e8f351,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-15",5443c8,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-6",577460,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-22",fb3b74,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-13",e87e9a,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-20",bcf211,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-4",242161,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-18",31ceda,"Intercity Bus","Public Transport",Kolhapur,Maharashtra,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-25",ad792a,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-16",ea7865,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-7",f5e4be,"Intercity Bus","Public Transport",Kolhapur,Maharashtra,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-23",ec8ea2,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-21",700b02,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-5",1f72a3,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-12",66ec55,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-19",ad9a8a,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-26",0d189c,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-42",ae0169,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-33",676b72,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-49",f23651,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-40",dfec92,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-31",96c44c,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-47",a8c0f4,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-29",e361f8,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-45",69f2f3,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-36",a51016,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-27",7781fd,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-43",d0b4d9,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-34",fa87ab,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-50",613d34,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-41",b3768b,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-32",5378bd,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-48",e480d8,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-30",722c71,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-46",8810ed,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-37",eea630,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-28",a7911f,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Konduskar Travels Pvt Ltd","Konduskar Travels Pvt Ltd-44",aff853,"Intercity Bus","Public Transport",Kolhapur,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-11,090fa2,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-2,adf6d6,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+SRS,SRS-9,6ba8b6,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-16,edae9e,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-7,79a1be,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-14,36bb08,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-5,2af489,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+SRS,SRS-12,943bf2,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-3,d3ad0f,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+SRS,SRS-10,28ca32,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-1,849b17,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+SRS,SRS-8,a04610,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-15,d96621,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-6,0fe272,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-13,cf0ed3,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-4,85965c,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+SRS,SRS-18,765f46,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-21,ee64bd,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-19,3e9af6,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-17,5782d4,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+SRS,SRS-20,24a2e8,"Intercity Bus","Public Transport",Bangalore,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Purple Metro","Purple Metro-6",f76262,"Intercity Bus","Public Transport",Pune,Maharashtra,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Purple Metro","Purple Metro-9",892b96,"Intercity Bus","Public Transport",Pune,Maharashtra,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Purple Metro","Purple Metro-7",aa0379,"Intercity Bus","Public Transport",Pune,Maharashtra,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Purple Metro","Purple Metro-10",8de002,"Intercity Bus","Public Transport",Pune,Maharashtra,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Purple Metro","Purple Metro-8",104d16,"Intercity Bus","Public Transport",Pune,Maharashtra,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Navi Mumbai Municipal Transport","NMMT Vashi Sector 09",21f3f5,"City Bus","Private Transport",Mumbai,Maharashtra,Mid,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport","NMMT Nerul Sec 3",765cce,"City Bus","Private Transport",Mumbai,Maharashtra,Mid,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,CMRL-4,384bca,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-20,d9ebe2,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-27,f55f45,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-11,32ce1f,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-34,7646bf,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-2,1b6a99,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-18,2abda8,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-25,4bd301,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-9,ef731d,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-32,840bf3,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-16,8cef49,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-39,7e1c68,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-37,ab87fa,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-35,f68654,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-38,fb8fc8,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,CMRL-36,08e429,Metro,"Private Transport",Chennai,NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Nehru Nagar","Shri Mariyamman Seva Mandal",b983d7,Basti,"Public Places",Mumbai,Maharashtra,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Shree Sai Seva Sameeti Mandal","Shree Sai Seva Sameeti 1",8d002e,Basti,"Public Places",Mumbai,Maharashtra,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"HMRL(L&T Metro)","L&T Metro Rail (Hyderabad) Limited-47",71114c,Metro,"Private Transport",Hyderabad,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"HMRL(L&T Metro)","L&T Metro Rail (Hyderabad) Limited-50",0aa056,Metro,"Private Transport",Hyderabad,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"HMRL(L&T Metro)","L&T Metro Rail (Hyderabad) Limited-48",8c8fbc,Metro,"Private Transport",Hyderabad,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"HMRL(L&T Metro)","L&T Metro Rail (Hyderabad) Limited-53",592b64,Metro,"Private Transport",Hyderabad,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"HMRL(L&T Metro)","L&T Metro Rail (Hyderabad) Limited-51",0cd628,Metro,"Private Transport",Hyderabad,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"HMRL(L&T Metro)","L&T Metro Rail (Hyderabad) Limited-49",09fd5b,Metro,"Private Transport",Hyderabad,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Navi Mumbai Municipal Transport","Navi Mumbai Municipal Transport-37",49568f,"City Bus","Private Transport","Navi Mumbai",NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport","Navi Mumbai Municipal Transport-38",1a7480,"City Bus","Private Transport","Navi Mumbai",NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport",MH43H5098,a87cc4,"City Bus","Private Transport","Navi Mumbai",Maharashtra,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport","Navi Mumbai Municipal Transport-44",bca42f,"City Bus","Private Transport","Navi Mumbai",NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport","Navi Mumbai Municipal Transport-56",9fcf30,"City Bus","Private Transport","Navi Mumbai",NULL,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport","Navi Mumbai Municipal Transport-57",8ca6e4,"City Bus","Private Transport","Navi Mumbai",NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport","Navi Mumbai Municipal Transport-58",94e90c,"City Bus","Private Transport","Navi Mumbai",NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport",NMMT-16,b73712,"City Bus","Private Transport","Navi Mumbai",NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport",NMMT-23,0cb0a7,"City Bus","Private Transport","Navi Mumbai",NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Forum Neigbourhood","Forum Neigborhood Mall",35e12f,"Standalone FnB",FnB,Bengaluru,Karnataka,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Central Railways","Central Railways-2",7d5d36,"Suburban Train","Public Transport",Mumbai,NULL,Mobile,mobile-cr,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+SRS,"SRS Head office",ec8014,"Intercity Bus","Public Transport",Bengaluru,Karnataka,Mid,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+SRS,SRS-22,ee4b09,"Intercity Bus","Public Transport",Bengaluru,Karnataka,Mobile,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CMRL,ChennaiCentral,afa765,Metro,"Private Transport",NULL,NULL,Mid,child_pseudo_tp,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,ChennaiCentral-1,9bb004,Metro,"Private Transport",NULL,NULL,Mid,child_pseudo_tp,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CSC,"THITHKI KAWADPUR",8c6cff,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,"NASIRPUR AFJALPUR",8ae466,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,GOVERDANPUR,7827f0,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,"BINDU KADAKPUR",af24e7,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,"DANDEDI KHAWAJGIPUR",dacb93,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,"DEEPSINGH WALA",7c0ffa,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,BAJJAKHANA,952bac,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,KALEKE,171b4d,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,"Ripunjay Sir testing",b092f1,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,Chandos,a4228f,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,Daniyawan,4c42e8,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,Dumri,85b5eb,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,Pitamberpur,049b35,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,Chakbariyan,57986e,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,SonaGopalpur,c4ad95,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,Jethuli,ca6b49,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,"MAUJI PUR",801dc2,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,Raksha,7381fa,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,Kulhenda,5aec0e,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,Saidpur,ac7b2e,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,MURSAN,faa767,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,PHARAULI,9be4bf,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,"BHADURPUR LOHIYA",9d62a1,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,BHQ,d1818f,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,"SHAHBAJPUR TIGAI",17802e,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,BEGRAJPUR,7a195d,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,SHIVRAMPUR,1dfe32,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,SIRIHARA,01f58a,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,MUNDERA,10c16f,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,"BAGHAUCH GHAT",dde097,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,"BHQ BHATPAR RANI",21d9f7,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,"DELEL NAGAR",3e1a60,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,"RAI NAWADA",a95bd5,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,RURKI,b5fba3,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,"MIRZAPUR AURANGABAD",acd03f,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+CSC,BHAGIPUR,2bdd2d,"Public Area","Public Places",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0
+"Navi Mumbai Municipal Transport",MH43H5092,29ebd6,"City Bus","Private Transport","Navi Mumbai",Maharashtra,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Zee Office","Zee Office marathon",a44a03,Corporate,"Corporate Park",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport",MH43H5094,e2d09e,"Private Transport","City Bus",NULL,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport",TP_Ashok_Leyland_U-1758_rifbziojxbvfqgmouohaw_1581340433696_0,c6b283,"Private Transport","City Bus",NULL,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport",TP_Ashok_Leyland_U-1853_guefpsilxfghopqjwhpqf_1581680539413_0,6ef4d4,"Private Transport","City Bus",NULL,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport",TP_Ashok_Leyland_U-1858_qrexqxizyosuqbiilghws_1581681008369_0,9e5578,"Private Transport","City Bus",NULL,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"HMRL(L&T Metro)",Train#(52),3a988b,"Private Transport",Metro,NULL,NULL,Mobile,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"HMRL(L&T Metro)",Train#(29),5071ba,"Private Transport",Metro,NULL,NULL,Mobile,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"HMRL(L&T Metro)",Train#(53),66b4cd,"Private Transport",Metro,NULL,NULL,Mobile,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"HMRL(L&T Metro)",Train#(54),b57b4c,"Private Transport",Metro,NULL,NULL,Mobile,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"HMRL(L&T Metro)",Train#(56),5462fc,"Private Transport",Metro,NULL,NULL,Mobile,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"HMRL(L&T Metro)",Train#(57),8300ce,"Private Transport",Metro,NULL,NULL,Mobile,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"HMRL(L&T Metro)",Train#(30),c38d5d,"Private Transport",Metro,NULL,NULL,Mobile,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"HMRL(L&T Metro)",Train#(55),04f7c8,"Private Transport",Metro,NULL,NULL,Mobile,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"HMRL(L&T Metro)",Train#(51),957dfe,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"COVID Hospital","Thane Center",c90876,Healthcare,"Private Hospital Chain",NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Navi Mumbai Municipal Transport",TP_Ashok_Leyland_U-1853_mswskbnqzpqbntvfbtrwcz_1581680540987_1,750150,"Private Transport","City Bus",NULL,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Navi Mumbai Municipal Transport",TP_Ashok_Leyland_U-1843_bqtcogiksgnlbclodrqnh_1581680031575_0,079010,"Private Transport","City Bus",NULL,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CMRL,"Train no.129",e32698,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.101",ebb954,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.113",baa49f,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.110",2acc40,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.139",16755b,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.120",11094c,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.125",77da66,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.116",875a04,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.114",6b6072,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+RailTel,TP_4_Coach_U-1370_wvhdujpqrfkmhbjjysxb_1600673820808_0,c62a3d,"Public Transport","Suburban Train",NULL,NULL,Mobile,Railtel_Pilot_EC,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CMRL,"Train no.136",d45fe7,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,Train#(115),bc0d38,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CMRL,Train#(119),0153fb,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CMRL,Train#(104),930d08,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CMRL,Train#(141),b24253,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CMRL,Train#(130),deb226,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CMRL,Train#(142),c2ac29,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CMRL,Train#(134),49347e,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+CMRL,Train#(127),043f79,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ISP,"EXPL GOA",5547a4,"Public Places",Basti,NULL,NULL,Static,default,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ISP,MahaMedia,6a169f,"Public Places",Basti,NULL,NULL,Static,CT_Static,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+ISP,HNS_ISP,b0523d,"Public Places",Basti,NULL,NULL,Static,deployed,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+NMMT,MH43H5095,fb1ff3,"Public Transport","City Bus",NULL,NULL,Mobile,c2cBus,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+"Central Railways","Central railway Train no 1109",21520b,"Public Transport","Suburban Train",NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.143",1a3f98,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.151",0e56ff,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.152",6700d4,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.146",7e623b,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.149",230b71,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.145",3d9ca1,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.148",cc5ecb,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.147",b158f3,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.144",a7ff62,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.150",d04f60,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.127",043f29,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.118",a87610,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+CMRL,"Train no.138",c497b2,"Private Transport",Metro,NULL,NULL,Mobile,kontronMetro,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
+NMMT,MH43H5135,bb939f,"Public Transport","City Bus",NULL,NULL,Mobile,C2C,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1
