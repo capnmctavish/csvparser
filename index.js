@@ -83,17 +83,31 @@ app.get('/',(req,res) => {
             //     Vertical : Vertical
                 
             // };
-            let temp = {  alert: alertName + "{" + "\n" , template : "Template" + "\n" , $metric : stm+'(q("sum:31s-avg:cpuUsage{edgeid=' + EdgeId + '}",'+ number + reviewP + ',""))' + "\n" , crit : "$metric" +' '+ operator  + thresh + '\n' + 'critNotification = email' + '\n'+ '}'};
+         if (!EdgeId || EdgeId === "") {
+             var queryname = 'dpname';
+             var query = DpName;
+         } else {
+             var queryname = 'edgeid';
+             var query = EdgeId;
+         }
+           
+    //var temp = 'alert' + alertName + 'template : Template\n' +  $metric : stm + '(q('+ '\"avg:cpuUsage{edgeid=' + EdgeId + '}\",'+ number + reviewP + ',\"\"))\n' + {crit : "$metric"} +' '+ operator  + thresh + '\n' + 'critNotification = email' +  '\n';
+      var hemp = ` alert = ${alertName} { 
+        $metric = ${stm}(q("avg:cpuUsage{${queryname}=${query}}", ${number}${reviewP} , "" ))
+        crit = $metric ${operator}${thresh} 
+        critNotification = email
+    } `;  
+           //const cdata = JSON.stringify(temp);
+           //var pdata = cdata.replace(/['"]+/g);
 
-            const cdata = JSON.stringify(temp);
+      
 
-
-
-           fs.writeFile('./bosun.conf', cdata, (err) => {
+           fs.writeFile('./bosun.conf', hemp, (err) => {
             if (err) return console.log(err);
             console.log('some error');
-            console.log(req.body);
+            
         })
+        console.log(req.body);
     });
 
     //Starting server on default port

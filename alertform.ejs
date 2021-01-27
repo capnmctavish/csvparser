@@ -13,7 +13,7 @@
         <pre> 
             Alert Name: <input name="alertname" id="alertname"/>
             <br>
-             Statistical Method:  <select name="stm" id="stm">
+             Statistical Method:  <select name="stm" id="stm" multiple>
              <option>max</option>
              <option>min</option>
              <option>count</option>
@@ -27,7 +27,7 @@
               <br>
              Review Period: 
              <input name="number" id="number"/>
-             <select name="rP" id="rP"> 
+             <select name="rP" id="rP" multipl> 
              <option>d</option>
              <option>w</option>
              <option>m</option>
@@ -35,13 +35,19 @@
              </select>
              <br>
             
-             Operator: <select name="opertaor" id="operator">
+             Operator: <select name="opertaor" id="operator" multiple>
              <option><</option>
              <option>></option>
              <option>=</option>
             </select>
             <br>
-            EdgeId : <select name="Edge" id="edges">
+            Edge Type : <select name="EdgeType" id="edgetype" multiple>
+                <option>Mobile</option>
+                <option>Mid</option>
+                <option>Static</option>
+                </select>
+                <br>
+            EdgeId : <select name="Edge" id="edges" multiple>
                 <option value=""></option>
                 <option value="wildcard(*)">ALL</option>
                 <%
@@ -60,7 +66,7 @@
                 <br>
             
             
-            DP NAME    : <select name="DP" id="dp">
+            DP NAME    : <select name="DP" id="dp" multiple>
                 <option value=""></option>
                 <option value="wildcard(*)">ALL</option>
                 <%
@@ -75,7 +81,7 @@
                 %>
                 </select> <br>
 
-            Verticals    : <select name="vertical" id="vertical">
+            Verticals    : <select name="vertical" id="vertical" multiple>
                 <option value=""></option>  
                 <option value="wildcard(*)">ALL</option>
                 <%
@@ -90,7 +96,7 @@
                 %>
                 </select> <br> 
   
-            City     : <select name="city" id="city" >
+            City     : <select name="city" id="city"  multiple>
                 <option value=""></option>
                 <option value="wildcard(*)">ALL</option>
                 <%
@@ -106,7 +112,7 @@
                 </select> <br> 
             
   
-            State   : <select name="state" id="state">
+            State   : <select name="state" id="state" multiple>
                 <option value=""></option>
                 <option value="wildcard(*)">ALL</option>
                 <%
@@ -121,7 +127,7 @@
                 %>
                 </select> <br> 
   
-            Reach : <select name="reach" id="reach">
+            Reach : <select name="reach" id="reach" multiple>
                 <option value=""></option>
                 <option value="wildcard(*)">ALL</option>
                 <%
