@@ -3,7 +3,7 @@ const express = require("express");
 const bp = require("body-parser");
 const path = require('path');
 const app = express();
-var jsonQuery = require('json-query');
+
 app.use(bp.urlencoded({ extended: true }));
 //default file system module to read CSV file
 var fs = require('fs').promises;
@@ -72,17 +72,9 @@ app.get('/',(req,res) => {
             const number =req.body.number;
             const thresh = req.body.thresh; 
             const stm = req.body.stm; 
-            const operator = req.body.operator;
+            const oPerator = req.body.oPerator;
             
-            // const formdata = {
-            //     TemplateName : 'template',
-            //     Edge : EdgeId,
-            //     DP : DpName,
-            //     City : City,
-            //     State : State,
-            //     Vertical : Vertical
-                
-            // };
+           
          if (!EdgeId || EdgeId === "") {
              var queryname = 'dpname';
              var query = DpName;
@@ -91,17 +83,12 @@ app.get('/',(req,res) => {
              var query = EdgeId;
          }
            
-    //var temp = 'alert' + alertName + 'template : Template\n' +  $metric : stm + '(q('+ '\"avg:cpuUsage{edgeid=' + EdgeId + '}\",'+ number + reviewP + ',\"\"))\n' + {crit : "$metric"} +' '+ operator  + thresh + '\n' + 'critNotification = email' +  '\n';
+    
       var hemp = ` alert = ${alertName} { 
         $metric = ${stm}(q("avg:cpuUsage{${queryname}=${query}}", ${number}${reviewP} , "" ))
-        crit = $metric ${operator}${thresh} 
-        critNotification = email
+        crit = $metric ${oPerator} ${thresh} 
+        critNotification = email 
     } `;  
-           //const cdata = JSON.stringify(temp);
-           //var pdata = cdata.replace(/['"]+/g);
-
-      
-
            fs.writeFile('./bosun.conf', hemp, (err) => {
             if (err) return console.log(err);
             console.log('some error');
