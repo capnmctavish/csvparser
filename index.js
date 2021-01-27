@@ -12,7 +12,7 @@ var fs = require('fs').promises;
 var parse = require('csv-parse/lib/sync');
 
 //Assign port value
-var PORT =  3000;
+var PORT =  3001;
 
 //Using EJS as HTML templating engine to render "TRIGGER FORM"
 app.set("views", path.join(__dirname)) 
@@ -62,22 +62,39 @@ app.get('/',(req,res) => {
 
     //recieve form data on ledata link
     app.post('/ledata', (req, res) => {
-            // const EdgeId = req.body.Edge;
-            // const DpName = req.body.DP;
-            // const City = req.body.city;
-            // const State = req.body.state;
-            // const Vertical = req.body.vertical;
+            const EdgeId = req.body.Edge;
+            const DpName = req.body.DP;
+            const City = req.body.city;
+            const State = req.body.state;
+            const Vertical = req.body.vertical;
+            const alertName = req.body.alertname; 
+            const reviewP = req.body.rP; 
+            const number =req.body.number;
+            const thresh = req.body.thresh; 
+            const stm = req.body.stm; 
+            const operator = req.body.operator;
             
             // const formdata = {
+            //     TemplateName : 'template',
             //     Edge : EdgeId,
             //     DP : DpName,
             //     City : City,
             //     State : State,
             //     Vertical : Vertical
+                
             // };
+            let temp = {  alert: alertName + "{" + "\n" , template : "Template" + "\n" , $metric : stm+'(q("sum:31s-avg:cpuUsage{edgeid=' + EdgeId + '}",'+ number + reviewP + ',""))' + "\n" , crit : "$metric" +' '+ operator  + thresh + '\n' + 'critNotification = email' + '\n'+ '}'};
 
+            const cdata = JSON.stringify(temp);
+
+
+
+           fs.writeFile('./bosun.conf', cdata, (err) => {
+            if (err) return console.log(err);
+            console.log('some error');
             console.log(req.body);
-        });
+        })
+    });
 
     //Starting server on default port
     app.listen(PORT, function(error){ 
